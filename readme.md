@@ -2,6 +2,8 @@
 
 > Get the icon of a file or app as a PNG image
 
+**NOTE** This is a modified package to allow overriding of the binary path. A requirement for an Electron based project I am working on
+
 Requires macOS 10.10 or later. macOS 10.13 or earlier needs to download the [Swift runtime support libraries](https://support.apple.com/kb/DL1998).
 
 ## Install
